@@ -1,6 +1,5 @@
 ---
 title: Blogging Like a Hacker
-permalink: /Recaps/Session1.html
 ---
 
 Our adventure started in [[Meadowfen]], where we found [[Bella]] at home with her father, [[Elder Ardwyn]]. [[Bella]] had heard rumors of danger coming from the *Scorched Grove* and was eager to set out to investigate. [[Elder Ardwyn]] asked her to speak with travellers first, so she could better understand what dangers await adventurers. 
