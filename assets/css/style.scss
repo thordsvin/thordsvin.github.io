@@ -2,6 +2,14 @@
 ---
 
 @import 'jekyll-theme-merlot';
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Texturina:wght@500&display=swap');
+@import url('../assets/fonts/Texturina-VariableFont_opsz,wght.ttf)');
+
+@font-face {
+    font-family: Texturina;
+    src: url('../assets/fonts/Texturina-VariableFont_opsz,wght.ttf)');
+    font-weight: medium;
+    font-style: normal;
+    
+}
 
 h1 { font-family: 'Texturina', serif;};
