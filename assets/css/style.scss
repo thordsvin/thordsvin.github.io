@@ -2,14 +2,30 @@
 ---
 
 @import 'jekyll-theme-merlot';
-@import url('../assets/fonts/Texturina-VariableFont_opsz,wght.ttf)');
+@import url('../fonts/Texturina-VariableFont.ttf');
 
 @font-face {
     font-family: Texturina;
-    src: url('../assets/fonts/Texturina-VariableFont_opsz,wght.ttf)');
+    src: url('../fonts/Texturina-VariableFont.ttf') format('truetype');
     font-weight: medium;
     font-style: normal;
     
 }
+@font-face {
+    font-family: EB Garamond;
+    src: url('../fonts/EBGaramond-VariableFont.ttf') format('truetype');
+    font-weight: medium;
+    font-style: normal;
+}
 
-h1,h2 { font-family: 'Texturina', serif;};
+h1,h2 { 
+    font-family: 'Texturina Medium', serif;
+    
+}
+h2{
+    font-size: 30px;
+}
+p { 
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+}
