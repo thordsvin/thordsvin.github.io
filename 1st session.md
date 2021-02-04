@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Blogging Like a Hacker
 permalink: /Recaps/Session1.html
 ---
