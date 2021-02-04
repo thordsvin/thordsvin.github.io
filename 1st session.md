@@ -1,3 +1,9 @@
+---
+layout: post
+title: Blogging Like a Hacker
+permalink: /Recaps/Session1.html
+---
+
 Our adventure started in [[Meadowfen]], where we found [[Bella]] at home with her father, [[Elder Ardwyn]]. [[Bella]] had heard rumors of danger coming from the *Scorched Grove* and was eager to set out to investigate. [[Elder Ardwyn]] asked her to speak with travellers first, so she could better understand what dangers await adventurers. 
 
 So she travelled to the tavern where she found three travellers who would help her.  A druid name [[Bijou Phoenixspine]] who vowed to protected [[Bella]] on her journey. A bard named [[Page]] who was entertaining in the tavern. And a rogue name [[Nico]], who challenged [[Bella]] to a game of Liar's Dice which cost him a small wager. 
