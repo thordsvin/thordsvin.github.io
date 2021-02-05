@@ -1,5 +1,6 @@
 ---
 title: The Scorched Grove
+name: The Scorched Grove
 layout: place
 ---
 

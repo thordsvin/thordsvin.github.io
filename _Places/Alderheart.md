@@ -1,5 +1,6 @@
 ---
 title: Alderheart
+name: Alderheart
 layout: place
 ---
 

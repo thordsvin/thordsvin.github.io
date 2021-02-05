@@ -1,5 +1,6 @@
 ---
 title: 1st Session
+name: 1st Session
 layout: default
 ---
 

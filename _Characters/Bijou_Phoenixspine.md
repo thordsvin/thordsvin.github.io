@@ -1,5 +1,6 @@
 ---
 title: Bijou Phoenixspine
+name: Bijou Phoenixspine
 layout: character
 ---
 

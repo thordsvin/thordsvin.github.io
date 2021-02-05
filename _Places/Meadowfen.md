@@ -1,5 +1,6 @@
 ---
 title: Meadowfen
+name: Meadowfen
 layout: place
 ---
 

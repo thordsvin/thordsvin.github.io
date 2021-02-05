@@ -1,5 +1,6 @@
 ---
 title: 4th Session
+name: 4th Session
 layout: default
 ---
 

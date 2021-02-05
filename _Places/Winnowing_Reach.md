@@ -1,5 +1,6 @@
 ---
 title: Winnowing Reach
+name: Winnowing Reach
 layout: place
 ---
 

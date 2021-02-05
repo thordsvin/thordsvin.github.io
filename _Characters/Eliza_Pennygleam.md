@@ -1,5 +1,6 @@
 ---
 title: Eliza Pennygleam
+name: Eliza Pennygleam
 layout: character
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Page
+name: Page
 layout: character
 ---
 

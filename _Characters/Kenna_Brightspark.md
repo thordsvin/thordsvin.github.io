@@ -1,5 +1,6 @@
 ---
 title: Kenna Brightspark
+name: Kenna Brightspark
 layout: character
 ---
 

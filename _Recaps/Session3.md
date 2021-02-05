@@ -1,5 +1,6 @@
 ---
 title: 3rd Session
+name: 3rd Session
 layout: default
 ---
 Upon arrival at [Winnowing Reach]({{site.url | append: "/Places/Winnowing_Reach" }}) our party decided to check out the bookstore and the apothecary. While potions were still a bit too pricey for the party, [Bijou Phoenixspine]({{site.url | append: "/Characters/Bijou_Phoenixspine" }}) was allowed to use her supplies in the facilities to make some giant spider antivenom. [Bella]({{site.url | append: "/Characters/Bella" }}) decided she wanted to check the library in the Book Bindery and search for some princess stories. The party also decided to pick up an alcemical recipe book. 

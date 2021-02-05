@@ -1,5 +1,6 @@
 ---
 title: Bella
+name: Bella
 layout: character
 ---
 

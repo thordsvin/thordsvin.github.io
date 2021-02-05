@@ -1,5 +1,6 @@
 ---
 title: Walden Krane
+name: Walden Krane
 layout: character
 ---
 

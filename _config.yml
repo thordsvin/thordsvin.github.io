@@ -1,2 +1,10 @@
 theme: jekyll-theme-merlot
 title: A Humblewood Adventure
+
+collections:
+    Characters:
+        output: true
+    Places:
+        output: true
+    Recaps:
+        output: true

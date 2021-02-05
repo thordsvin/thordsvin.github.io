@@ -1,5 +1,6 @@
 ---
 title: Nico
+name: Nico
 layout: character
 ---
 

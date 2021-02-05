@@ -1,5 +1,6 @@
 ---
 title: Elder Ardwyn
+name: Elder Ardwyn
 layout: character
 ---
 
