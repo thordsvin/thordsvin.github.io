@@ -3,6 +3,7 @@
 
 @import 'jekyll-theme-merlot';
 @import url('../fonts/Texturina-VariableFont.ttf');
+@import url('../fonts/EBGaramond-VariableFont.ttf');
 
 @font-face {
     font-family: Texturina;
@@ -19,7 +20,7 @@
 }
 
 h1,h2 { 
-    font-family: 'Texturina Medium', serif;
+    font-family: 'Texturina', serif;
     
 }
 h2{
