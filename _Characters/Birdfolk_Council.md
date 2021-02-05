@@ -1,6 +1,6 @@
 ---
-title: Birdfolk Counci
-name: Birdfolk Counci
+title: Birdfolk Council
+name: Birdfolk Council
 layout: character
 ---
 

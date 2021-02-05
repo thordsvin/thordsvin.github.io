@@ -43,34 +43,40 @@ title: Table of Contents
         </div>
       
       <span class="banner-fix"></span>
-
-      <section id="main_content">
-        <h2 id="title">{{ page.title | default: site.github.project_tagline }}</h2>
-
-        <h2>Characters</h2>
-        <ul>
-            {% for character in site.Characters %}
-            <li><a href="{{ character.url }}">
+      <section id="title">
+        <h2 >{{ page.title | default: site.github.project_tagline }}</h2>
+        </section>
+      <section class="ToC" id="main_content">
+        <div class="box">
+            <h2>Characters</h2>
+            <ul>
+                {% for character in site.Characters %}
+                <li><a href="{{ character.url }}">
                 {{ character.name }}
-            </a></li>
-            {% endfor %}
-        </ul>
-        <h2>Places</h2>
-        <ul>
-            {% for Place in site.Places %}
-            <li><a href="{{ Place.url }}">
-                {{ Place.name }}
-            </a></li>
-            {% endfor %}
-        </ul>
-        <h2>Recaps</h2>
-        <ul>
-            {% for Recap in site.Recaps %}
-            <li><a href="{{ Recap.url }}">
-                {{ Recap.name }}
-            </a></li>
-            {% endfor %}
-        </ul>
+                </a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="box">
+            <h2>Places</h2>
+            <ul>
+                {% for Place in site.Places %}
+                <li><a href="{{ Place.url }}">
+                    {{ Place.name }}
+                </a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="box">
+            <h2>Recaps</h2>
+            <ul>
+                {% for Recap in site.Recaps %}
+                <li><a href="{{ Recap.url }}">
+                    {{ Recap.name }}
+                </a></li>
+                {% endfor %}
+            </ul>
+        </div>
       </section>
 
       <footer>
