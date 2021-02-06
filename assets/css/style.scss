@@ -63,22 +63,23 @@ ul li {
     background: none;
 }
 
-@media (max-width: 640px) {
+@media screen and (max-width: 640px) {
     div.shell {
         width: 100%;
-        margin: 0 0 0 0;
-        align-content: space-evenly;
+        margin: 0px 0px 0px 0px;
+        max-width: 100%;
     }
     span.banner-fix {
         width: 100%;
+        
     }
-    header footer{
+    header, footer{
         margin: 0 5% 0 5%;
         max-width: 90%;
-    }      
+    }    
     header h1 {
         padding: 14px 20px;
-    }
+    }  
     h1,h2 { 
         font-family: 'Texturina', serif;
 }
@@ -103,6 +104,9 @@ ul li {
         text-align: center;
         font-size: 1.85em;
         font-weight: bold;
+    }
+    section#main_content {
+        padding: 20px 15% 0;
     }
     .ToC{
         columns: 2 auto;
