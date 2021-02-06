@@ -86,7 +86,12 @@ ul li {
     div#no-downloads {
         margin: -80px 7% -150px 7%;
         width: 100%;
-        background: transparent url(../images/bg-ramp.jpg) 3.5% 171px no-repeat;
+        background: transparent url(../images/bg-ramp.jpg) 0 171px no-repeat;
+    }
+    div#no-downloads span.inner {
+       // display: block;
+        //position: relative;
+        height: 196px;
     }
     h2#name {
         font-size: 1.85em;
