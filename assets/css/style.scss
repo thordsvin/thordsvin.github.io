@@ -128,9 +128,14 @@ ul li {
     .box {
         break-inside: avoid;
     }
-    p, ul, li  { 
+    ul, li  { 
         font-family: 'EB Garamond', serif;
         font-size: 1.45em;
+    }
+    p {
+        font-family: 'EB Garamond', serif;
+        font-siz: 1.65em;
+        text-align: justify;
     }
     ul li {
         list-style: none;
