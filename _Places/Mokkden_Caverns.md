@@ -1,5 +1,5 @@
 ---
-layout: places
+layout: place
 title: Mokkden Caverns
 name: Mokkden Caverns
 ---
