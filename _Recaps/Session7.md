@@ -2,6 +2,7 @@
 layout: default
 name: 7th Session
 title: 7th Session
+sequence: 7
 ---
 
 Packed and ready to go, The Party met up with [Eliza]({{site.url | append: "/Characters/Eliza_Pennygleam" }}) and informed her it was time to leave for [Alderheart]({{site.url | append: "/Places/Alderheart" }}). The party decided to travel slowly, much like they did before, sneaking through the forest. Along the way the party was attacked by a swarm of emberbats. After turning into a giant spider, [Bijou]({{site.url | append: "/Characters/Bijou_Phoenixspine" }}) stuck them together with web and the party easily dealt with this threat. 

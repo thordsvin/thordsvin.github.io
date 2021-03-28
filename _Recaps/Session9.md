@@ -2,6 +2,7 @@
 layout: default
 name: 9th session
 title: 9th session
+sequence: 9
 ---
 
 Finally arriving at [Alderheart]({{site.url | append: "/Places/Alderheart" }}), the party started by accompanying [Eliza Pennygleam]({{site.url | append: "/Characters/Eliza_Pennygleam" }}) to her Emporium in the Canopy Market. [Eliza's]({{site.url | append: "/Characters/Eliza_Pennygleam" }}) wares were intriguing, but the party didn't have the funds so they moved on. In The Boughs, [Bella]({{site.url | append: "/Characters/Bella" }}) was able to find a nice home to rent for the parties stay in [Alderheart]({{site.url | append: "/Places/Alderheart" }}). The party then decided to check out the local taverns where they found, The Dapper Owl. As usual, [Page]({{site.url | append: "/Characters/Page" }}) entertained, while [Nico]({{site.url | append: "/Characters/Nico" }}) and [Bella]({{site.url | append: "/Characters/Bella" }}) played dice games with the other patrons. 

@@ -2,6 +2,7 @@
 layout: default
 title: 5th session
 name: 5th session
+sequence: 5
 ---
 
 Upon returning to Winnowing Reach, our party brought [Kenna Brightspark]({{site.url | append: "/Characters/Kenna_Brightspark" }}) in to [The Magistrate]({{site.url | append: "/Characters/Walden_Krane" }}) and collected the gold they were promised but not the letter of introduction for [The Council]({{site.url | append: "/Characters/Birdfolk_Council" }}). [The Magistrate]({{site.url | append: "/Characters/Walden_Krane" }}) insisted that had more important matters to deal with and he would discuss it in the morning. 

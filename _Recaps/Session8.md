@@ -2,6 +2,7 @@
 layout: default
 name: 8th Session
 title: 8th Session
+sequence: 8
 ---
 
 After cleaning up the mess made by some rogue elementals, The Party continued down the road to [Alderheart]({{site.url | append: "/Places/Alderheart" }}) until they were confronted by highway men demanding a toll for "safe passage." Not willing to pay bandits, [Bella]({{site.url | append: "/Characters/Bella" }}) used her new telepathic abilities to signal for an attack from the rest of the party. The bandits were overwhelmed quickly, and after being tackled by Bane Foegnasher, the Jerbeen thief in charge begged for his life and offered all the tolls they had collected. The party agreed and let him escape.

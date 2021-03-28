@@ -1,7 +1,8 @@
 ---
 layout: default
-name: 10th session
-title: 10th session
+name: 10th Session
+title: 10th Session
+sequence: 10
 ---
 
 Perch Guard Captain [Sterling]({{site.url | append: "/Characters/Sterling" }}) gathered the party lead them to the bandit camp so they find the bandit's capatin and bring them to Justice. The party attempted to sneak through the camp but most of the party was spotted and shot with arrows as they hurried through the ramshackle camps. In the center of camp they a better fortified section that surely house the bandit captain. The party faced wave after wave of bandits. One bandit froze and fell to the ground after attacking [Bella]({{site.url | append: "/Characters/Bella" }}). Two others were mauled by a bear that ran into the camp. 

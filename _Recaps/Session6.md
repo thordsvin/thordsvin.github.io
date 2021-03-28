@@ -2,6 +2,7 @@
 layout: default
 title: 6th session
 name: 6th session
+sequence: 6
 ---
 
 The party returned to [Winnowing Reach]({{site.url | append: "/Places/Winnowing_Reach" }}) to turn in their quest. The party presented the amulet that [The Magistrate]({{site.url | append: "/Characters/Walden_Krane" }}) asked for as proof but he did not believe their story. [The Magistrate]({{site.url | append: "/Characters/Walden_Krane" }}) had sent someone to keep tabs on the party and was well aware the task had not been completed. [The Magistrate]({{site.url | append: "/Characters/Walden_Krane" }}) threw the party out of his office and made it clear he never wished to see them ever again. 

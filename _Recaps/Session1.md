@@ -2,6 +2,7 @@
 title: 1st Session
 name: 1st Session
 layout: default
+sequence: 1
 ---
 
 Our adventure started in [Meadowfen]({{site.url | append: "/Places/Meadowfen" }}), where we found [Bella]({{site.url | append: "/Characters/Bella" }}) at home with her father, [Elder Ardwyn]({{site.url | append: "/Characters/Elder_Ardwyn" }}). [Bella]({{site.url | append: "/Characters/Bella" }}) had heard rumors of danger coming from the *Scorched Grove* and was eager to set out to investigate. [Elder Ardwyn]({{site.url | append: "/Characters/Elder_Ardwyn" }}) asked her to speak with travellers first, so she could better understand what dangers await adventurers. 

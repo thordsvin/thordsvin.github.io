@@ -71,7 +71,8 @@ title: Table of Contents
         <div class="box">
             <h2 class="category">Recaps</h2>
             <ul>
-                {% for Recap in site.Recaps %}
+                {% assign recap_sorted = site.Recaps | sort: "sequence" %}
+                {% for Recap in recap_sorted %}
                 <li><a href="{{ Recap.url }}">
                     {{ Recap.name }}
                 </a></li>

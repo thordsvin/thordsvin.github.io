@@ -2,6 +2,7 @@
 title: 2nd Session
 name: 2nd Session
 layout: default
+sequence: 2
 ---
 The party agreed to accomplany [Eliza Pennygleam]({{site.url | append: "/Characters/Eliza_Pennygleam" }}) on her journey and protect her wagon. After some discussion it was decided the safest way to travel would be to allow [Eliza Pennygleam]({{site.url | append: "/Characters/Eliza_Pennygleam" }}) to pull her wagon at slow pace, thus allowing the party to sneak through the forest. [Bella]({{site.url | append: "/Characters/Bella" }}) Chose to keep [Eliza Pennygleam]({{site.url | append: "/Characters/Eliza_Pennygleam" }}) company to draw attackers towards [Bella]({{site.url | append: "/Characters/Bella" }}) instead.  
 
