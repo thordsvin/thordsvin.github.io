@@ -1,6 +1,3 @@
----
-title: Table of Contents
----
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -9,8 +6,8 @@ title: Table of Contents
     <meta name="viewport" content="width=640">
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen">
-<!--     <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | append: site.github.build_revision | relative_url }}" media="handheld, only screen and (max-device-width:640px)"> -->
-<!--     <link rel="stylesheet" href="{{ '/assets/css/non-screen.css' | append: site.github.build_revision | relative_url }}" media="handheld, only screen and (max-device-width:640px)"> -->
+<!--     <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)"> -->
+<!--     <link rel="stylesheet" href="{{ '/assets/css/non-screen.css' | relative_url }}" media="handheld, only screen and (max-device-width:640px)"> -->
     <link rel="icon" type="image/png" href="/favicon.png">
     
     <script src="{{ '/assets/js/modernizr.js' | relative_url }}"></script>
@@ -32,6 +29,7 @@ title: Table of Contents
         <span class="ribbon-outer">
           <span class="ribbon-inner">
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
@@ -44,52 +42,12 @@ title: Table of Contents
         </div>
       
       <span class="banner-fix"></span>
-      <section id="title">
-        <h2 >{{ page.title | default: site.github.project_tagline }}</h2>
-        </section>
-      <section class="ToC" id="main_content">
-        <div class="box">
-            <h2 class="category">Characters</h2>
-            <ul>
-                {% for character in site.Characters %}
-                <li><a href="{{ character.url }}">
-                {{ character.name }}
-                </a></li>
-                {% endfor %}
-            </ul>
-        </div>
-        <div class="box">
-            <h2 class="category">Places</h2>
-            <ul>
-                {% for Place in site.Places %}
-                <li><a href="{{ Place.url }}">
-                    {{ Place.name }}
-                </a></li>
-                {% endfor %}
-            </ul>
-        </div>
-        <div class="box">
-            <h2 class="category">Rules</h2>
-            <ul>
-                {% assign rule_sorted = site.Rules | sort: "sequence" %}
-                {% for Rule in recap_sorted %}
-                <li><a href="{{ Rule.url }}">
-                    {{ Rule.name }}
-                </a></li>
-                {% endfor %}
-            </ul>
-        </div>
-        <div class="box">
-            <h2 class="category">Recaps</h2>
-            <ul>
-                {% assign recap_sorted = site.Recaps | sort: "sequence" %}
-                {% for Recap in recap_sorted %}
-                <li><a href="{{ Recap.url }}">
-                    {{ Recap.name }}
-                </a></li>
-                {% endfor %}
-            </ul>
-        </div>
+
+      <section id="main_content">
+        {{ content }}
+        
+        <p id="index"><a href="{{ site.url }}">Index</a>
+        </p>
       </section>
 
       <footer>
