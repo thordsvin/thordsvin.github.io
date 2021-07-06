@@ -17,7 +17,7 @@ Ranks within Humblewood
 | 25 | 4 | Summerblossum | Adult |
 | 50 | 5 | Autumnal | Elder |
 
-## Tenders of the Scorched grove 
+## Tenders of the Scorched Grove 
 Character are eligible for certain benefits depending on their ranks. There are also certain feats and roles that's are only available at certain ranks. If a character has earned a favor they may spend it to access a benefit from the next rank.
 ### Seedling
 As a seedlingou are taught a ritual which allows you to commune with nature and befriend a minor forest spirit. The forest spirit takes on the form of a Small or Tiny beast of challenge rating 0 of your choice. The forest spirit has the statistics of the chosen form, though it is an elemental, fey, or plant (your choice) instead of a beast.
