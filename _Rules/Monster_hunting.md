@@ -65,5 +65,3 @@ To find your prey you need to have good tracking skills to locate them or their 
 | +10 or more | You also find the other target and can choose where to fight them. |
 | Failure | You spending 2 hours tracking unsuccessfully and run into danger. |
 | -10 or more | The entire day is lost and you also face a greater danger. |
-
-> Written with [StackEdit](https://stackedit.io/).
