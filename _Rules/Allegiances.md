@@ -9,7 +9,7 @@ sequence: 1
 Characters can earn renown with organizations in the world, or piety with their gods, by doing quests, performing good deeds, or spending downtime earning renown. Each faction has 5 ranks that can be earned.
 Ranks within Humblewood
 | Renown/Piety | Rank | Tenders | Cairith |
-|:--:|:--:|:----:|:---:|
+| :--: | :--: | :----: | :---: |
 | 1 | 1 | Seedling | Fawn |
 | 3 | 2 | Sproutling | Yearling |
 | 10 | 3 | Sapling | Juvenile |
@@ -33,7 +33,7 @@ You are also appointed to a circle comprised of autumnals who convene regularly 
 Followers of Cairith who are atleast of Juvenile standing are able to pray each day for a chance to be blessed by Cairith. A piety check is made by rolling a d20 modified by rank. If you have a usable charm, you may not receive another one.
 
 | Piety Check | Result |
-|:--:|:--|
+| :--: | :-- | 
 | 10+ | can use the *bless* spell once |
 | 20+ | you may choose 1 item to become a charm |
 | nat 20 | You receive The Sight |
@@ -48,6 +48,3 @@ Followers of Cairith who are atleast of Juvenile standing are able to pray each 
 
 
 > Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0Mzc4MzczXX0=
--->
