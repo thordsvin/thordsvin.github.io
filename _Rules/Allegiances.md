@@ -8,6 +8,7 @@ sequence: 1
 # Groups and Renown
 Characters can earn renown with organizations in the world, or piety with their gods, by doing quests, performing good deeds, or spending downtime earning renown. Each faction has 5 ranks that can be earned.
 Ranks within Humblewood
+
 | Renown/Piety | Rank | Tenders | Cairith |
 | :--: | :--: | :----: | :---: |
 | 1 | 1 | Seedling | Fawn |

@@ -72,7 +72,7 @@ title: Table of Contents
             <h2 class="category">Rules</h2>
             <ul>
                 {% assign rule_sorted = site.Rules | sort: "sequence" %}
-                {% for Rule in recap_sorted %}
+                {% for Rule in rule_sorted %}
                 <li><a href="{{ Rule.url }}">
                     {{ Rule.name }}
                 </a></li>
