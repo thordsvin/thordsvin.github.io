@@ -8,6 +8,7 @@ sequence: 2
 # Monster Hunting
 ## Monster Check DC 
 To set the DC for Checks use the following formula rounding down: 
+
 $$
 \textrm{ Monster Check DC } = 10 + \textrm{ Monster CR } \times 1/2 
 $$
