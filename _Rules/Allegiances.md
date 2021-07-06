@@ -38,6 +38,7 @@ Followers of Cairith who are atleast of Juvenile standing are able to pray each 
 | 10+ | can use the *bless* spell once |
 | 20+ | you may choose 1 item to become a charm |
 | nat 20 | You receive The Sight |
+
 ### Charms
 1. Cairith's Splendor -- When you activate this charm, you can cast the [enhance ability](https://5e.tools/spells.html#enhance%20ability_phb) (3rd-level version) or [enlarge/reduce](https://5e.tools/spells.html#enlarge%2freduce_phb) spell. The charm becomes a mundane item after you activate it.
 2. Cairith's Mercy -- This charm allows you to regrow a lost appendage or organ, such as an arm, a foot, or an eye. The charm becomes a mundane item after you activate it.
