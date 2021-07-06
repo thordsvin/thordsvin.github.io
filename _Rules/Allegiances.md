@@ -34,7 +34,7 @@ You are also appointed to a circle comprised of autumnals who convene regularly 
 Followers of Cairith who are atleast of Juvenile standing are able to pray each day for a chance to be blessed by Cairith. A piety check is made by rolling a d20 modified by rank. If you have a usable charm, you may not receive another one.
 
 | Piety Check | Result |
-| :--: | :-- | 
+| :---: | :----- | 
 | 10+ | can use the *bless* spell once |
 | 20+ | you may choose 1 item to become a charm |
 | nat 20 | You receive The Sight |
