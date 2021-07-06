@@ -10,7 +10,7 @@ sequence: 2
 To set the DC for Checks use the following formula rounding down: 
 
 $$
-\textrm{ Monster Check DC } = 10 + \textrm{ Monster CR } \times 1/2 
+\\textrm{ Monster Check DC } = 10 + \\textrm{ Monster CR } \\times 1/2 
 $$
 
 ## Encounters and XP
