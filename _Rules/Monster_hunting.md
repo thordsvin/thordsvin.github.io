@@ -9,9 +9,11 @@ sequence: 2
 ## Monster Check DC 
 To set the DC for Checks use the following formula rounding down: 
 
-\begin(equation)
+<div>
+$$
 \textrm{ Monster Check DC } = 10 + \textrm{ Monster CR } \times 1/2
-\end(equation)
+$$
+</div>
 
 ## Encounters and XP
 A typical successful day of hunting might break down like this: 
