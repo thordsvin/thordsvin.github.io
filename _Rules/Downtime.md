@@ -31,6 +31,7 @@ The character must make a series of checks, with the DC for all the checks chose
 To attempt a crime, the character makes three checks: Dexterity (Stealth), Dexterity using thieves' tools, and the player's choice of Intelligence (Investigation), Wisdom (Perception), or Charisma (Deception).
 
 ### Loot Value
+
 | DC | Value |
 | --: | :-- |
 | 10 | 50 gp, robbery of a struggling merchant |
@@ -39,6 +40,7 @@ To attempt a crime, the character makes three checks: Dexterity (Stealth), Dexte
 | 25 | 1,000 gp, robbery of one of the richest figures in town |
 
 ### Resolution
+
 | Sucesses | Result |
 | --: | :-- |
 | 0 | the character is caught and jailed. The character must pay a fine equal to the profit the crime would have earned and must spend one week in jail for each 25 gp of the fine. |
@@ -53,6 +55,7 @@ Between adventures, a character undertakes minor tasks for the organization and 
 This activity requires one workweek of effort plus a stake of at least 10 gp, to a maximum of 1,000 gp.
 The character must make a series of checks, with a DC determined at random based on the quality of the competition that the character runs into. Part of the risk of gambling is that one never knows who might end up sitting across the table.
 The character makes three checks (1 intelligence, 1 wisdom, 1 charisma): Wisdom (Insight), Charisma (Deception) or Charisma (Persuasion) or Charima (Intimidation), and Intelligence (History) or Intelligence (Investigation). If the character has proficiency with an appropriate gaming set, that tool proficiency can replace the relevant skill in any of the checks or provide advantage. The DC for each of the checks is **5 + 2d10**; generate a separate DC for each one.
+
 | Successes | Value |
 | :--: | -- |
 | 0 | Lose all the money you bet, and accrue a debt equal to that amount. |
@@ -69,6 +72,7 @@ A character who spends at least 10 days performing sacred rites gains inspiratio
 ## Religious Services
 Performing religious service requires access to, and often attendance at, a temple whose beliefs and ethos align with the character's. If such a place is available, the activity takes one workweek of time but involves no gold piece expenditure.
 At the end of the required time, the character chooses to make either an Intelligence (Religion) check or a Charisma (Persuasion) check. The total of the check determines the benefits of service.
+
 | Check Total | Result |
 | --: | :-- |
 | 1—10 | No effect. Your efforts fail to make a lasting impression. |
@@ -77,6 +81,7 @@ At the end of the required time, the character chooses to make either an Intelli
 
 ##  Work
 Performing a job requires one workweek of effort. To determine how much money a character earns, the character makes an ability check appropriate for their chosen work. 
+
 | Check Total | Earnings |
 | -- | -- |
 | 9 or lower | Poor lifestyle for the week |
