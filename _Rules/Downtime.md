@@ -42,7 +42,7 @@ To attempt a crime, the character makes three checks: Dexterity (Stealth), Dexte
 ### Resolution
 
 | Sucesses | Result |
-| --: | :-- |
+| :--: | :-- |
 | 0 | the character is caught and jailed. The character must pay a fine equal to the profit the crime would have earned and must spend one week in jail for each 25 gp of the fine. |
 | 1 | the heist fails but the character escapes. There are complications though. |
 | 2 | the heist is a partial success, netting the character half the payout. |
@@ -83,7 +83,7 @@ At the end of the required time, the character chooses to make either an Intelli
 Performing a job requires one workweek of effort. To determine how much money a character earns, the character makes an ability check appropriate for their chosen work. 
 
 | Check Total | Earnings |
-| -- | -- |
+| --: | :-- |
 | 9 or lower | Poor lifestyle for the week |
 | 10—14 | Modest lifestyle for the week |
 | 15—20 | Comfortable lifestyle for the week |
