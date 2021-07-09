@@ -7,7 +7,7 @@ sequence: 3
 
 ## Training
 Characters can spend time training skills or learning to use new tools. It takes 10 weeks to train a new profiency. Your intelligence modifer can reduce this time but not raise it. 
-Training cost 25 gp per workweek; 10 weeks cost 250 gp, all 18 weeks cost 450 gp.
+Training cost 25 gp per workweek; 10 weeks cost 250 gp.
 
 ## Learning Spells
 If a character wants to change their learned spells (Bards and Witches specifically) they have 2 options: 
