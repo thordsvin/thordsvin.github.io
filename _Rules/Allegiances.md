@@ -53,6 +53,7 @@ The way of nature is growth. Let nothing stifle you, and you will flourish. An A
 6. Cairith's Antler's -- When you activate this charm, you can cast the [hold person](https://5e.tools/spells.html#hold%20person_phb). Alternatively, you may activate this charm to make a melee spell attack with a range of 30 ft. Cairith's Antler's do 6d10 piercing damage on a hit. The charm becomes a mundane item after you activate it.
 ###  The Sight 
 On a natural 20 -- When you activate this charm, You can activate this blessing to receive True Sight for 1 hour. Alternatively, you can choose to receive a vision of the past, present, or future. You may only activate this blessing once.
+
 ## Henwin
 
 ### Beliefs
