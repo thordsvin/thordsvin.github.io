@@ -66,6 +66,9 @@ The rose only blooms thanks to the many kindnesses of the soil. Henwin, the patr
 4. Henwen's Kindness-- When you activate this charm, you can cast the [aura of vitality](https://5e.tools/spells.html#aura%20of%20vitality_phb) spell as a bonus action. Alternatively, as an action, you can give up to three creatures of your choice within 30 feet of you resistance to bludgeoning, piercing, and slashing damage until the end of your next turn. The charm becomes a mundane item after you activate it.
 5. Henwen's Mercy -- This charm allows you to give yourself the benefit of a [potion of vitality](https://5e.tools/items.html#potion%20of%20vitality_dmg) as an action. The charm becomes a mundane item after you activate it.
 6. Henwen's Friends -- When you activate this charm, you may cast the [Insect Plague](https://5e.tools/spells.html#insect%20plague_phb) spell. The charm becomes a mundane item after you activate it.
+
+### A Yellow Rose
+On a natural 20 -- A Yellow Rose begins to bloom nearby. If a character accepts this yellow rose as a gifted they become charmed for 1 hour.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEwMzc2NDgzNjAsLTIwMTM5NTc3MjUsLT
 I3NDMzNjM0MiwtNDM4MjY5Nzc0LC0xOTEwODM5NDYwLDE1OTU0
