@@ -69,7 +69,8 @@ The rose only blooms thanks to the many kindnesses of the soil. Henwin, the patr
 6. Henwen's Friends -- When you activate this charm, you may cast the [Insect Plague](https://5e.tools/spells.html#insect%20plague_phb) spell. The charm becomes a mundane item after you activate it.
 
 ### A Yellow Rose
-On a natural 20 -- A Yellow Rose begins to bloom nearby. If a character accepts this yellow rose as a gifted they become charmed for 1 hour.
+On a natural 20 -- A Yellow Rose begins to bloom nearby. If a character accepts this yellow rose as a gift they become charmed for 1 hour.
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEwMzc2NDgzNjAsLTIwMTM5NTc3MjUsLT
 I3NDMzNjM0MiwtNDM4MjY5Nzc0LC0xOTEwODM5NDYwLDE1OTU0
