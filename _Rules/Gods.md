@@ -7,9 +7,9 @@ sequence: 4
 
 # Feywild
 ## Ardea
-**Alignment** -- Neutral Good
-**Domain** -- Life, Light
-**Dogma** -- All life, great and small, is equal and sacred. Protect life, and be kind to all living beings.
+**Alignment** -- Neutral Good\
+**Domain** -- Life, Light\
+**Dogma** -- All life, great and small, is equal and sacred. Protect life, and be kind to all living beings.\
 **Holy Symbol** -- A radiant sun with two golden feathers
 
 ## Hanera
